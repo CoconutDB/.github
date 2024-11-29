@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/CoconutDB/CoconutDB/raw/master/assest/CoconutDBnobg.png" alt="Alt text" height="300">
+</p>
+
+
+
 # CoconutDB
 CoconutDB is a NoSQL, document-oriented database built for modern web applications. It is designed to be fast, scalable, and easy to use, providing developers with a seamless experience for managing and storing data.
 
