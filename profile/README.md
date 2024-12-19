@@ -13,6 +13,7 @@ CoconutDB is a NoSQL, document-oriented database built for modern web applicatio
 - High Performance: Optimized for speed and scalability.
 - Easy to Use: Simple API for quick integration.
 - Cross-platform: Works on all major operating systems.
+- CoconutDB Web Limited Edition
 
 ## Contributing
 
